@@ -1,4 +1,4 @@
-<!-- Copyright (C) 2022 SuperiorOS
+<!-- Copyright (C) 2022-2023 The SuperiorOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -39,6 +39,18 @@
             src="@drawable/Superior_Material_04"
             title="@string/wallpaper_logo_green"
             subtitle1="@string/author_1" />
+
+        <static-wallpaper
+            id="Material Yellow"
+            src="@drawable/Superior_Material_05"
+            title="@string/sree_yellow"
+            subtitle1="@string/author_2" />
+
+        <static-wallpaper
+            id="Material Green"
+            src="@drawable/Superior_Material_06"
+            title="@string/sree_green"
+            subtitle1="@string/author_2" />
     </category>
 
 </resources>

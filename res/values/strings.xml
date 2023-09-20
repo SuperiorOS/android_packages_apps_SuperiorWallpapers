@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright (C) 2022 SuperiorOS
+<!-- Copyright (C) 2022-2023 The SuperiorOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -17,11 +17,15 @@
 <resources>
     <string name="app_name">Superior Wallpapers</string>
 
-    <!-- Wallpapers by Yash-->
+    <!-- Wallpapers by Yash -->
     <string name="material_walls">Superior Material</string>
     <string name="author_1">Yash Kachave</string>
     <string name="wallpaper_logo_yellow">Superior Yellow</string>
     <string name="wallpaper_logo_purple">Superior Purple</string>
     <string name="wallpaper_logo_blue">Superior Blue</string>
     <string name="wallpaper_logo_green">Superior Green</string>
+    <!-- Wallpapers by Sree -->
+    <string name="author_2">Sree_srt</string>
+    <string name="sree_yellow">Material Yellow</string>
+    <string name="sree_green">Material Green</string>
 </resources>
